@@ -1,0 +1,71 @@
+.header{
+	height:100vh;
+	width:100%;
+	background-image: url('img/coffeeshop.jpg');
+	background-size:cover;
+	margin:0;
+	border-bottom-style:groove;
+	border-color:#4E3928;
+	border-bottom-width: 10px;
+}
+body{
+	
+	font-family: 'Pacifico', cursive;
+	margin:0;
+	padding:0;
+}
+.title{
+	text-align:center;
+	font-size: 70pt;
+	color:#C7B693;
+	padding-top:20px;
+	letter-spacing:2px;
+	text-shadow:10px 10px 10px #FAF0E6;
+	margin:0;
+	
+}
+.title2{
+	text-align:center;
+	line-height:1px;
+	font-size: 140pt;
+	color:#C7B693;
+	letter-spacing:2px;
+	text-shadow:10px 10px 10px #FAF0E6;
+	margin:0;
+}
+.menu{
+	width:100%;
+	background-image: url('img/wallpaper.jpg');
+	background-size:cover;
+	margin:0;
+	padding-top: 1px;
+	padding-bottom: 20px;
+	color:#B69F72;
+	font-size:20px;
+}
+.photo img{
+	height: 102%;
+	width: 102%;
+	
+}
+.photo{
+	margin: 0 auto;
+	overflow:hidden;
+	width:180px;
+	height:180px;
+	border-radius:50%;
+	border: #B69F72 5px solid;
+	
+}
+.info{
+	text-align:center;
+	margin: 40px 400px;
+	
+}
+h2{
+	text-shadow: 3px 3px 3px #FFF8DC;
+	color:#705138;
+}
+.photo2{
+	margin-top:30px;
+}
